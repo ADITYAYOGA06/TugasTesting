@@ -1,0 +1,11 @@
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\bin\Debug\TugasUnitTest.dll
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\bin\Debug\TugasUnitTest.pdb
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\bin\Debug\nunit.framework.dll
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\bin\Debug\TugasLibrary.dll
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\bin\Debug\TugasLibrary.pdb
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\bin\Debug\nunit.framework.xml
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\obj\Debug\TugasUnitTest.csprojAssemblyReference.cache
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\obj\Debug\TugasUnitTest.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\obj\Debug\TugasUnitTest.csproj.CopyComplete
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\obj\Debug\TugasUnitTest.dll
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 5\02 tugas\TugasUnitTest\obj\Debug\TugasUnitTest.pdb
